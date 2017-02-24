@@ -1,0 +1,6 @@
+/*C3*/SET SCHEMA PUBLIC
+INSERT INTO TOURS VALUES(28,9,'Waterski','nice','waterski after speedboat',100.00,'Medium','abc',30,'Sm\u00e5landsfarvandet','Do IT')
+COMMIT
+DISCONNECT
+/*C4*/SET SCHEMA PUBLIC
+DISCONNECT
